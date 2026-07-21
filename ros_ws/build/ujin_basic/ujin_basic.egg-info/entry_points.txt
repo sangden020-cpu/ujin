@@ -1,3 +1,11 @@
 [console_scripts]
 class_pub = ujin_basic.class_pub:main
+class_sub = ujin_basic.class_sub:main
+header_pub = ujin_basic.header_pub:main
+m2sub = ujin_basic.m2sub:main
+mpub = ujin_basic.mpub:main
+msub = ujin_basic.msub:main
+mtsub = ujin_basic.mtsub:main
+mv_turtle = ujin_basic.mv_turtle:main
 simple_pub = ujin_basic.simple_pub:main
+tpub = ujin_basic.tpub:main

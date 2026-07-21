@@ -1,0 +1,19 @@
+[1.159s] Invoking command in '/home/aa/ujin/ros_ws/build/ujin_basic': PYTHONPATH=/home/aa/ujin/ros_ws/build/ujin_basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aa/ujin/ros_ws/install/ujin_basic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aa/ujin/ros_ws/build/ujin_basic/build --no-deps symlink_data
+[1.459s] running develop
+[1.620s] running egg_info
+[1.634s] writing ujin_basic.egg-info/PKG-INFO
+[1.635s] writing dependency_links to ujin_basic.egg-info/dependency_links.txt
+[1.635s] writing entry points to ujin_basic.egg-info/entry_points.txt
+[1.636s] writing requirements to ujin_basic.egg-info/requires.txt
+[1.636s] writing top-level names to ujin_basic.egg-info/top_level.txt
+[1.668s] reading manifest file 'ujin_basic.egg-info/SOURCES.txt'
+[1.668s] writing manifest file 'ujin_basic.egg-info/SOURCES.txt'
+[1.684s] running build_ext
+[1.686s] Creating /home/aa/ujin/ros_ws/install/ujin_basic/lib/python3.12/site-packages/ujin-basic.egg-link (link to .)
+[1.687s] Installing class_pub script to /home/aa/ujin/ros_ws/install/ujin_basic/lib/ujin_basic
+[1.687s] Installing class_sub script to /home/aa/ujin/ros_ws/install/ujin_basic/lib/ujin_basic
+[1.687s] Installing simple_pub script to /home/aa/ujin/ros_ws/install/ujin_basic/lib/ujin_basic
+[1.687s] 
+[1.687s] Installed /home/aa/ujin/ros_ws/build/ujin_basic
+[1.687s] running symlink_data
+[1.715s] Invoked command in '/home/aa/ujin/ros_ws/build/ujin_basic' returned '0': PYTHONPATH=/home/aa/ujin/ros_ws/build/ujin_basic/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/aa/ujin/ros_ws/install/ujin_basic/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/aa/ujin/ros_ws/build/ujin_basic/build --no-deps symlink_data
