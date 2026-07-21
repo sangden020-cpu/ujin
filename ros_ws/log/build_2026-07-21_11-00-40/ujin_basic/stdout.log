@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating ujin_basic.egg-info
+writing ujin_basic.egg-info/PKG-INFO
+writing dependency_links to ujin_basic.egg-info/dependency_links.txt
+writing entry points to ujin_basic.egg-info/entry_points.txt
+writing requirements to ujin_basic.egg-info/requires.txt
+writing top-level names to ujin_basic.egg-info/top_level.txt
+writing manifest file 'ujin_basic.egg-info/SOURCES.txt'
+reading manifest file 'ujin_basic.egg-info/SOURCES.txt'
+writing manifest file 'ujin_basic.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/aa/ujin/ros_ws/install/ujin_basic/lib/python3.12/site-packages/ujin-basic.egg-link (link to .)
+Installing simple_pub script to /home/aa/ujin/ros_ws/install/ujin_basic/lib/ujin_basic
+
+Installed /home/aa/ujin/ros_ws/build/ujin_basic
+running symlink_data
+creating /home/aa/ujin/ros_ws/install/ujin_basic/share/ament_index
+creating /home/aa/ujin/ros_ws/install/ujin_basic/share/ament_index/resource_index
+creating /home/aa/ujin/ros_ws/install/ujin_basic/share/ament_index/resource_index/packages
+symbolically linking /home/aa/ujin/ros_ws/build/ujin_basic/resource/ujin_basic -> /home/aa/ujin/ros_ws/install/ujin_basic/share/ament_index/resource_index/packages
+symbolically linking /home/aa/ujin/ros_ws/build/ujin_basic/package.xml -> /home/aa/ujin/ros_ws/install/ujin_basic/share/ujin_basic

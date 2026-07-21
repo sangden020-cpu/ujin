@@ -1,0 +1,13 @@
+package.xml
+setup.cfg
+setup.py
+resource/ujin_basic
+ujin_basic/__init__.py
+ujin_basic/simple_pub.py
+ujin_basic.egg-info/PKG-INFO
+ujin_basic.egg-info/SOURCES.txt
+ujin_basic.egg-info/dependency_links.txt
+ujin_basic.egg-info/entry_points.txt
+ujin_basic.egg-info/requires.txt
+ujin_basic.egg-info/top_level.txt
+ujin_basic.egg-info/zip-safe
