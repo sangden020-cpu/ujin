@@ -37,6 +37,16 @@ setup(
             "msub = ujin_basic.msub:main",
             "m2sub = ujin_basic.m2sub:main",
             "mv_turtle = ujin_basic.mv_turtle:main",
+            "qos_test_pub = ujin_basic.qos_test_pub:main",
+            "qos_test_sub = ujin_basic.qos_test_sub:main",
+            "user_int_pub = ujin_basic.user_int_pub:main",
+            "service_server = ujin_basic.service_server:main",
+            "service_thread_server = ujin_basic.service_thread_server:main",
+            "service_client = ujin_basic.service_client:main",
+            "my_param=ujin_basic.my_param:main",
+            "param_async=ujin_basic.param_async:main",
+            "param.launch = ujin_basic.param_launch:main",
+
         ],
     },
 )

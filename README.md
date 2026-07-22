@@ -1,9 +1,11 @@
  HEAD
 # ujin
 
-aaafewfes
-# 
-
-# git push origin 브랜치명 -f
-nano .bashrc
- ec24ef4 (test)
+7/22
+    오늘 배운 것
+        qos로 정보 송수신
+        서비스 서버 연 후 정보 송수신 및 수정 
+        서비스 클라이언트로 정보 받기
+        파라미터 만들기
+        파라미터 외부에 만들기
+        파라미터 launch로 묶기
