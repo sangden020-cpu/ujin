@@ -1,13 +1,19 @@
 [console_scripts]
+action_client = ujin_basic.action_client:main
+action_server = ujin_basic.action_server:main
+action_thread_server = ujin_basic.action_thread_server:main
 class_pub = ujin_basic.class_pub:main
 class_sub = ujin_basic.class_sub:main
 header_pub = ujin_basic.header_pub:main
+m = ujin_basic.m:main
 m2sub = ujin_basic.m2sub:main
 mpub = ujin_basic.mpub:main
 msub = ujin_basic.msub:main
 mtsub = ujin_basic.mtsub:main
 mv_turtle = ujin_basic.mv_turtle:main
+mv_turtle_ns = ujin_basic.mv_turtle_ns:main
 my_param = ujin_basic.my_param:main
+param.launch = ujin_basic.param_launch:main
 param_async = ujin_basic.param_async:main
 qos_test_pub = ujin_basic.qos_test_pub:main
 qos_test_sub = ujin_basic.qos_test_sub:main

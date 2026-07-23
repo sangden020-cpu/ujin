@@ -46,6 +46,12 @@ setup(
             "my_param=ujin_basic.my_param:main",
             "param_async=ujin_basic.param_async:main",
             "param.launch = ujin_basic.param_launch:main",
+            "action_server = ujin_basic.action_server:main",
+            "action_client = ujin_basic.action_client:main",
+            "action_thread_server = ujin_basic.action_thread_server:main",
+            "mv_turtle_ns = ujin_basic.mv_turtle_ns:main",
+            "m = ujin_basic.m:main"
+
 
         ],
     },
